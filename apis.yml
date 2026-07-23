@@ -1,7 +1,25 @@
 aid: 6thsense
-name: 6thsense
-description: 6thsense is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: 6thSense
+description: 6thSense is a physical-AI hardware company building the touch layer for dexterous
+  robots. It designs and manufactures wearable tactile-sensing data gloves that capture how human
+  hands interact with the world — pressure, contact, grip, and 3D hand pose — alongside custom
+  tactile skin molded to robot hands. Its capture stack synchronizes eight aligned modalities
+  (tactile and pressure proxies, egocentric video, depth/RGB-D, hand pose, motion and IMU dynamics,
+  wrist and scene cameras, dense labels and commentary, and success/failure outcomes) into
+  model-ready demonstration datasets used to train the next generation of dexterous,
+  manipulation-capable robots. Founded in 2026 in San Francisco and backed by Y Combinator (S26).
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://6thsense.dev/og-image-v2.png
 url: https://raw.githubusercontent.com/api-evangelist/6thsense/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,9 +32,30 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Robotics
+- Physical AI
+- Tactile Sensing
+- Hardware
+- Machine Learning
+- Datasets
+- Robot Manipulation
+- Sensors
+- Y Combinator
 apis: []
+common:
+- type: Website
+  url: https://6thsense.dev/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/6thsenseai
+- type: DomainSecurity
+  url: security/6thsense-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
