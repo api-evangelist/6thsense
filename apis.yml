@@ -8,6 +8,17 @@ description: 6thSense is a physical-AI hardware company building the touch layer
   wrist and scene cameras, dense labels and commentary, and success/failure outcomes) into
   model-ready demonstration datasets used to train the next generation of dexterous,
   manipulation-capable robots. Founded in 2026 in San Francisco and backed by Y Combinator (S26).
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
