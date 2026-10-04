@@ -47,7 +47,7 @@ tags:
 - Physical AI
 - Tactile Sensing
 - Hardware
-- Machine-Learning
+- Machine Learning
 - Datasets
 - Robot Manipulation
 - Sensors
@@ -63,6 +63,7 @@ tags_raw:
 - Robot Manipulation
 - Sensors
 - Y Combinator
+- Machine-Learning
 apis: []
 common:
 - type: Website
